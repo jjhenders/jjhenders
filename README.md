@@ -20,12 +20,13 @@
 ## Most recent project
 * Mask2Former universal segmentation in simulated robotics environments
 * Smooth fine tuning via progressively upscaled synthetic training data
-<br>
+<br><br>
 
-![gif-url]
+<p align="center">
+  <img src="./resources/mask2former_viz_lowres.gif" alt="gif" />
+</p>
 
 
 
-[gif-url]: /resources/mask2former_viz.gif
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/joshua-james-henderson/
