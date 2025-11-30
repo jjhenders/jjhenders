@@ -1,16 +1,31 @@
-## Hi there 👋
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!--
-**jjhenders/jjhenders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Josh 👋
 
-Here are some ideas to get you started:
+<!-- PROJECT OVERVIEW -->
+<br />
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2 align="left">I'm a Computer Vision engineer interested in the R&D of innovative AI models, and their integration into novel products </h1>
+
+  <p align="left">
+    - 🔭 I’m currently working on sim-to-real domain shift with different sensor modalities
+    <br>
+    - 🌱 MSc Robotics graduate from the University of Birmingham, UK
+    <br>
+    - 😄 Hobbyist game developer
+  </p>
+</div>
+
+## Most recent project
+* Mask2Former universal segmentation in simulated robotics environments
+* Smooth fine tuning via progressively upscaled synthetic training data
+<br>
+
+![gif-url]
+
+
+
+[gif-url]: /resources/mask2former_viz.gif
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/joshua-james-henderson/
