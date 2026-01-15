@@ -40,7 +40,12 @@
 <p align="center">
   <img src="./resources/detr_out1.gif" alt="gif" />
 </p>
+<br>
 
+### [LLaMA corpus LoRA](https://github.com/jjhenders/LLaMA3.1_8b_Storyteller_LoRA)
+* LLaMA 3.1 8B Instruct fine tuned with low rank adaptation to produce stories with a coherent narrative in a given style or corpus.
+* Given a cleaned corpus within a given genre or distinct writing style, this project uses LoRA to quickly converge on being able to produce new stories.
+<br><br>
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
